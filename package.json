@@ -1,0 +1,17 @@
+{
+  "author": "Tomek Wytrebowicz",
+  "name": "backbone.promissedsync",
+  "version": "0.0.1",
+  "dependencies": {
+    "backbone": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomalec/Backbone.promissedSync.git"
+  },
+    "devDependencies": {
+        "grunt": "~0.4",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-uglify": "latest"
+    }
+}
