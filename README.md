@@ -7,7 +7,7 @@ Maintained by Tomek Wytrebowicz [(tomalec)](https://github.com/tomalec).
 
 Overrides `Backbone.Sync` to return a promise that will be resolved with model or collection instance instead of just `$.ajax` response.
 
-Depends on Underscore, Backbone, and jQuery(>=1.6). AMD compatible.
+Depends on Underscore, Backbone, and jQuery(>=1.6) or Zepto + [simply-deferred](https://github.com/sudhirj/simply-deferred). AMD compatible.
 
 
 ## Usage
